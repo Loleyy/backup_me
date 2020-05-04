@@ -22,8 +22,13 @@ Puis lancer simplement en faisant un ./backup
 
 
 # Dump du SQL
+
 host=localhost
+
 user=votre_user
+
 password=votre_password
+
 database=votre_base
+
 name=le_nom_de_votre_dump$datu
