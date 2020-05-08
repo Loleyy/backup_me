@@ -37,7 +37,11 @@ NAME_SAVE="Resources_save_$datu"
 
 # Change info SQL
 host=localhost
+
 user=votre_user
+
 password=votre_password
+
 database=votre_base
+
 name=le_nom_de_votre_dump$datu
