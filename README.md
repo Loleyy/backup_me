@@ -9,6 +9,7 @@ This simple script allows you to make a backup of any folder present on your sys
 Pensez à faire un chmod +x backup.sh avant de lancer
 Puis lancer simplement en faisant un ./backup
 
+-----------------------------------------------------------------------------------------------------------------------
 [EN]
 This simple script allows you to make a backup of any folder present on your system
 
