@@ -24,10 +24,13 @@ Then simply launch by doing a ./backup.sh
 ------------------------------------------------------------------------------------------------------------------------
 # Change this
 datu=`LC_TIME="fr_FR.UTF-8" date '+%A-%d-%B-%Y-%Hh'`
--> Format de date : Le lundi-04-mai-2020-23h
+
 DIRECTORY_PATH="/home/"
+
 DIRECTORY_SAVE="/home/ce/que/vous/voulez/save/"
+
 NAME_REPERTORY="${DIRECTORY_PATH}Save"
+
 NAME_SAVE="Resources_save_$datu"
 
 
